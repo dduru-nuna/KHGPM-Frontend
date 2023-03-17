@@ -3,4 +3,7 @@ export default {
     board: {},  //낱개
     products: [],
     product: {},
+    productImages: [],
+
+    isAuthenticated: false,
 }
